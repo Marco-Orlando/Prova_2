@@ -35,6 +35,10 @@ public class Auto {
 		this.targa = targa;
 	}
 
+	public float calcolaBollo(int anno) {
+		return anno*2.5f;
+	}
+	
 	@Override
 	public String toString() {
 		return "Auto [modello=" + modello + ", targa=" + targa + "]";
