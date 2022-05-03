@@ -5,14 +5,8 @@ import java.util.*;
  * Classe auto
  */
 public class Auto {    
-	/**
-     * 
-     */
+	
     private String modello;
-
-    /**
-     * 
-     */
     private String targa;
 
     public Auto(String modello, String targa) {
