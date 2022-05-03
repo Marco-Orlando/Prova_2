@@ -2,11 +2,9 @@
 import java.util.*;
 
 /**
- * 
+ * Classe auto
  */
-public class Auto {
-
-    
+public class Auto {    
 	/**
      * 
      */
